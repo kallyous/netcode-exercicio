@@ -6,7 +6,6 @@ public class UIManager : MonoBehaviour
 {
     [SerializeField] public TMP_Text playersOnline;
     [SerializeField] public TMP_Text debugFeedback;
-    //[SerializeField] public PlayersManager players_manager;
 
     private void Update()
     {
